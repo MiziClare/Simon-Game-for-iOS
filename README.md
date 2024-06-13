@@ -5,7 +5,7 @@
  <h1 align="center" style="font-weight: 600">COMP228    App Development</h1>
  <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
 
-# Building Security System
+# Simon Game
 
 ## Project Overview
 
